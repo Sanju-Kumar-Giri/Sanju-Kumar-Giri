@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science Project or Data Science related internship
 - 📫 How to reach me sanjugiri1992@gmail.com/ sanju_201800191@smit.smu.edu.in / 9382399646
+- 📫 My Linkedin www.linkedin.com/in/sanjukumargiri
 
 <!---
 Sanju-Kumar-Giri/Sanju-Kumar-Giri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
