@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science Project or Data Science related internship
 - 🥅 Goals: Full Stack Data Scientist 
-- ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field of data science and try to follow them to                 and apply their experince in my life. 
+- ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field   of data science and try to follow them to                 and apply their experince in my life. 
 - 📫 How to reach me sanjugiri1992@gmail.com/ sanju_201800191@smit.smu.edu.in / 9382399646
 - 📫 My Linkedin https://www.linkedin.com/in/sanjukumargiri 
 
