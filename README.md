@@ -3,7 +3,7 @@
 ![data-science](https://user-images.githubusercontent.com/77228006/125193546-8a526b00-e26a-11eb-817c-769e2fd3a203.jpg)
 
 - 👀 I’m interested in Data Science| Product Management| Business Problems Solver| AI
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently learning Data Analytics & Product Management 
 - 💞️ I’m looking to collaborate on Data Science Project or Product Management related internship
 - 🥅 Goals: Product Manager 
 - ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field                                           of data science,Product Management & Business Cases and try to follow them and apply their experince in my life. 
