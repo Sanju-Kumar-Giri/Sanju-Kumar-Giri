@@ -2,6 +2,9 @@
 
 ![1_gbfDUWqDerfB4QhRVnMSaQ](https://user-images.githubusercontent.com/77228006/145044449-88598a84-00d9-4acf-a771-7589ab06371e.png)
 
+![image](https://user-images.githubusercontent.com/77228006/145044670-22f5637e-4660-4940-9a0c-81668e3331cc.png)
+
+
 
 - 👀 I’m interested in Data Science| Product Management| Business Problems Solver| AI
 - 🌱 I’m currently learning Data Analytics & Product Management 
