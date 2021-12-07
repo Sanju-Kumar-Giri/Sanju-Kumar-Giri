@@ -2,7 +2,8 @@
 
 ![1_gbfDUWqDerfB4QhRVnMSaQ](https://user-images.githubusercontent.com/77228006/145044449-88598a84-00d9-4acf-a771-7589ab06371e.png)
 
-                                                     ![download](https://user-images.githubusercontent.com/77228006/145044818-6b84ce4f-bed5-4450-b936-29659c3d7b62.png)
+![Screenshot-2021-08-26-at-09 50 11](https://user-images.githubusercontent.com/77228006/145045124-9c3340a6-e262-45b2-8ae0-79e52d13afcb.png)
+
 
 
 
