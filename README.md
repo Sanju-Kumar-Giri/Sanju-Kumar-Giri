@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sanju-Kumar-Giri
+- 😄 Pronouns: he/him
 
 ![1_gbfDUWqDerfB4QhRVnMSaQ](https://user-images.githubusercontent.com/77228006/145044449-88598a84-00d9-4acf-a771-7589ab06371e.png)
 
@@ -10,9 +11,10 @@
 
 - 👀 I’m interested in Data/AI Product Management| Business Problems Solver| AI
 - 🌱 I’m currently learning Data Analytics & Product Management 
-- 💞️ I’m looking to collaborate on Data/AI Product Management related internship
-- 🥅 Goals: Product Manager 
-- ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field                                           of data science,Product Management & Business Cases and try to follow them and apply their experince in my life. 
+- 💞️ I’m looking to collaborate on Data/AI Product Management related projects & ideas. 
+- 🥅 Goals: Product Manager
+- 👨‍💻 Programming Language: Python, C++, C
+- ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field                                           of data science,Product Management & Business Cases and try to follow them and apply their experince in my life. I love to travel & meet new people.
 - 📫 How to reach me sanjugiri1992@gmail.com/ sanju_201800191@smit.smu.edu.in / 9382399646 /7044980968
 - 📫 My Linkedin https://www.linkedin.com/in/sanjukumargiri 
 
