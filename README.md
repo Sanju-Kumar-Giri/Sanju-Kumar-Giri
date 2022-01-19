@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in Data/AI Product Management| Business Problems Solver| Production & Operation Management | Supply-Chain Management 
 - 🌱 I’m currently learning Data Analytics & Product Management 
-- 💞️ I’m looking to collaborate on Data/AI Product Management related projects & ideas. 
+- 💞️ I’m looking to collaborate on Data/AI Product Management| Production & Operation Management | Supply-Chain Management  related projects & ideas. 
 - 🥅 Goals: Product Manager | Entrepreneur 
 - 👨‍💻 Programming Language: Python, C++, C
 - ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field                                           of data science,Product Management & Business Cases and try to follow them and apply their experince in my life. I love to travel & meet new people.
