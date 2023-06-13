@@ -15,8 +15,9 @@
 - 💞️ I’m looking to collaborate on Data/AI Product Management| Production & Operation Management | Supply-Chain Management  related projects & ideas. 
 - 🥅 Goals: Product Manager | Entrepreneur 
 - 👨‍💻 Programming Language: Python, C++, C
-- ✨ Fun Fact: In my leisure time I love to watch vlogs on youtube & watch youtube vidoes of people who have much experience in the field                                           of data science,Product Management & Business Cases and try to follow them and apply their experince in my life. I love to travel & meet new people.
-- 📫 How to reach me sanjugiri1992@gmail.com/ sanju_201800191@smit.smu.edu.in / 9382399646 /7044980968
+- ✨ Fun Fact: During my leisure time, I derive great pleasure from indulging in the captivating realm of YouTube vlogs. I find immense joy in watching videos shared by individuals who possess a wealth of experience in the fields of data science, product management, and business cases. By diligently following their insights and applying their expertise to my own life, I strive to expand my knowledge and grow both personally and professionally.
+Additionally, I have a profound passion for traveling and embarking on new adventures. Exploring different destinations allows me the opportunity to meet fascinating individuals from diverse backgrounds, fostering meaningful connections and broadening my perspective on the world.
+- 📫 How to reach me sanjugiri1992@gmail.com/ +886-0933744712 / +91-9382399646 /+91-7044980968
 - 📫 My Linkedin https://www.linkedin.com/in/sanjukumargiri 
 
 <!---
