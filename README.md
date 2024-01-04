@@ -10,7 +10,7 @@
 
 
 
-- 👀 I’m interested in Data/AI Product Management| Business Problems Solver| Production & Operation Management | Supply-Chain Management 
+- 👀 I’m interested in Data/AI Product/Project Management| Business Problems Solver| Production & Operation Management | Supply-Chain Management 
 - 🌱 I’m currently learning Project/Product Management 
 - 💞️ I’m looking to collaborate on Data/AI Product/Project Management| Production & Operation Management | Supply-Chain Management  related projects & ideas. 
 - 🥅 Goals: Product Manager | Entrepreneur 
