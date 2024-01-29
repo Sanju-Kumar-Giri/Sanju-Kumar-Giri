@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Sanju-Kumar-Giri
 - 😄 Pronouns: he/him
 
-![1_gbfDUWqDerfB4QhRVnMSaQ](https://user-images.githubusercontent.com/77228006/145044449-88598a84-00d9-4acf-a771-7589ab06371e.png)
+![Product-Manager-Vs-Project-Manager](https://github.com/Sanju-Kumar-Giri/Sanju-Kumar-Giri/assets/77228006/99997110-7010-499f-8157-65f1aa4fa77d)
 
-![Screenshot-2021-08-26-at-09 50 11](https://user-images.githubusercontent.com/77228006/145045124-9c3340a6-e262-45b2-8ae0-79e52d13afcb.png)
-
-![image](https://user-images.githubusercontent.com/77228006/150173049-14167f89-de06-4655-97eb-635aee53e69e.png)
 
 
 
