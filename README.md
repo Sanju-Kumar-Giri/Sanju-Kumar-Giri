@@ -8,7 +8,7 @@
 
 
 - 👀 I’m interested in Product/Project/Operation Management| Business Problems Solver| Production & Operation Management | Supply-Chain Management 
-- 🌱 I’m currently learning Project/Product Management 
+- 🌱 I’m currently learning Project/Product/Operation Management 
 - 💞️ I’m looking to collaborate on Product/Project/Operation Management| Production & Operation Management | Supply-Chain Management  related projects & ideas. 
 - 🥅 Goals: Project/Product Manager | Entrepreneur 
 - 👨‍💻 Programming Language: Python, C++
