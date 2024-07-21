@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanju-Kumar-Giri
+- 👋 Hi, I’m @Sanju Kumar Giri
 - 😄 Pronouns: he/him
 
 ![Product-Manager-Vs-Project-Manager](https://github.com/Sanju-Kumar-Giri/Sanju-Kumar-Giri/assets/77228006/99997110-7010-499f-8157-65f1aa4fa77d)
